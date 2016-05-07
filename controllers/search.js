@@ -2,7 +2,7 @@
 var Search = {
     
     index: function(rec, res){
-        res.render('Search');
+        res.render('search/index');
     }
 };
 
